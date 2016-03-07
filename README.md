@@ -1,4 +1,4 @@
-# Computer_Graphics_with_WebGL
+# Computer_Graphics_with_WebGL<br>
 
-Common : WebGL main Library
-CLASS : basic application
+Common : WebGL main Library<br>
+CLASS : basic application<br>
